@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/btech/cs1180368/Assignment3/assignment5_isim_beh.exe" -prj "/home/btech/cs1180368/Assignment3/assignment5_beh.prj" "work.assignment5" 

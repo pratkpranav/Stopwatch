@@ -1,0 +1,44 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/btech/cs1180368/Assignment3/assignment5_isim_beh.exe -prj /home/btech/cs1180368/Assignment3/assignment5_beh.prj work.assignment5 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+WARNING:Simulator:1010 - One or more environment variables have been detected which affect the operation of the C compiler. These are typically not set in standard installations and are not tested by Xilinx, however they may be appropriate for your system, so the flow will attempt to continue.  If errors occur, try running fuse with the "-mt off -v 1" switches to see more information from the C compiler. The following environment variables have been detected:
+Parsing VHDL file "/home/btech/cs1180368/Assignment3/tendiv.vhf" into library work
+Parsing VHDL file "/home/btech/cs1180368/Assignment3/seg.vhf" into library work
+Parsing VHDL file "/home/btech/cs1180368/Assignment3/output4for.vhf" into library work
+Parsing VHDL file "/home/btech/cs1180368/Assignment3/DivBySix.vhf" into library work
+Parsing VHDL file "/home/btech/cs1180368/Assignment3/assignment5.vhf" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 113496 KB
+Fuse CPU Usage: 1070 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture and4_v of entity AND4 [and4_default]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture behavioral of entity FTC_HXILINX_assignment5 [\FTC_HXILINX_assignment5('0')\]
+Compiling architecture behavioral of entity output4for_MUSER_assignment5 [output4for_muser_assignment5_def...]
+Compiling architecture and3_v of entity AND3 [and3_default]
+Compiling architecture behavioral of entity DivBySix_MUSER_assignment5 [divbysix_muser_assignment5_defau...]
+Compiling architecture behavioral of entity FJKC_HXILINX_assignment5 [\FJKC_HXILINX_assignment5('0')\]
+Compiling architecture behavioral of entity tendiv_MUSER_assignment5 [tendiv_muser_assignment5_default]
+Compiling architecture d4_16e_hxilinx_assignment5_v of entity D4_16E_HXILINX_assignment5 [d4_16e_hxilinx_assignment5_defau...]
+Compiling architecture or4_v of entity OR4 [or4_default]
+Compiling architecture or6_hxilinx_assignment5_v of entity OR6_HXILINX_assignment5 [or6_hxilinx_assignment5_default]
+Compiling architecture or5_v of entity OR5 [or5_default]
+Compiling architecture m4_1e_hxilinx_assignment5_v of entity M4_1E_HXILINX_assignment5 [m4_1e_hxilinx_assignment5_defaul...]
+Compiling architecture d2_4e_hxilinx_assignment5_v of entity D2_4E_HXILINX_assignment5 [d2_4e_hxilinx_assignment5_defaul...]
+Compiling architecture behavioral of entity seg_MUSER_assignment5 [seg_muser_assignment5_default]
+Compiling architecture behavioral of entity assignment5
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 39 VHDL Units
+Built simulation executable /home/btech/cs1180368/Assignment3/assignment5_isim_beh.exe
+Fuse Memory Usage: 1211048 KB
+Fuse CPU Usage: 1270 ms
+GCC CPU Usage: 920 ms

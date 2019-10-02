@@ -1,0 +1,3 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl PratikSrathak.vhf -w /home/btech/cs1180368/Assignment3/PratikSrathak.sch 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl PratikSrathak.vhf -w /home/btech/cs1180368/Assignment3/PratikSrathak.sch 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl PratikSrathak.vhf -w /home/btech/cs1180368/Assignment3/PratikSrathak.sch 

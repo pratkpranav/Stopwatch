@@ -1,0 +1,5 @@
+vhdl work "tendiv.vhf"
+vhdl work "seg.vhf"
+vhdl work "output4for.vhf"
+vhdl work "DivBySix.vhf"
+vhdl work "assignment5.vhf"

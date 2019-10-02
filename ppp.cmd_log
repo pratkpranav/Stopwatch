@@ -1,0 +1,1 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl ppp.vhf -w /home/btech/cs1180368/Desktop/2018CS10368_2018CS10384_Assignment4/ppp.sch 

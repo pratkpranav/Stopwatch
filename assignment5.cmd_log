@@ -1,0 +1,4 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl assignment5.vhf -w /home/btech/cs1180368/Assignment3/assignment5.sch 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl assignment5.vhf -w /home/btech/cs1180368/Assignment3/assignment5.sch 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl assignment5.vhf -w /home/btech/cs1180368/Assignment3/assignment5.sch 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl assignment5.vhf -w /home/btech/cs1180368/Assignment3/assignment5.sch 
